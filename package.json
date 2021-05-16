@@ -2,7 +2,7 @@
   "name": "@lemoos/public-library",
   "version": "0.1.0",
   "description": "The Public Library is a repo of utilities, helpers written in TypeScript.",
-  "author": "Leonardo Lemos <leo.lemos.ds@gmail.com>",
+  "author": "Public Library Community <https://github.com/lemooos/public-library>",
   "license": "MIT",
   "devDependencies": {
     "@commitlint/cli": "^12.1.4",
