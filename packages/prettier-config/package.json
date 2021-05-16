@@ -1,0 +1,17 @@
+{
+  "name": "@public-library/prettier-config",
+  "version": "0.1.0",
+  "description": "",
+  "main": ".prettierrc.js",
+  "keywords": [
+    "Prettier",
+    "JavaScript",
+    "TypeScript",
+    "Format"
+  ],
+  "author": "Public Library Community <https://github.com/lemooos/public-library>",
+  "license": "MIT",
+  "peerDependencies": {
+    "prettier": "^2.3.0"
+  }
+}
