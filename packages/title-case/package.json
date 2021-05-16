@@ -1,0 +1,31 @@
+{
+  "name": "@public-library/title-case",
+  "version": "0.1.0",
+  "description": "The TitleCase transformer lib for strings able to be used with TypeScript and JavaScript.",
+  "main": "dist/camelCase.cjs",
+  "scripts": {
+    "test": "jest --all",
+    "test::withWatch": "jest --all --watch",
+    "build": "microbundle",
+    "dev": "microbundle watch"
+  },
+  "keywords": [
+    "camelcase",
+    "lib",
+    "library",
+    "camelCase",
+    "strings",
+    "string",
+    "strconv"
+  ],
+  "author": "Public Library Community <https://github.com/lemooos/public-library>",
+  "license": "MIT",
+  "devDependencies": {
+    "microbundle": "^0.13.0"
+  },
+  "type": "module",
+  "source": "lib/TitleCase.ts",
+  "exports": "dist/TitleCase.modern.js",
+  "module": "dist/TitleCase.module.js",
+  "unpkg": "dist/TitleCase.umd.js"
+}
