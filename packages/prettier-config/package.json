@@ -2,7 +2,7 @@
   "name": "@public-library/prettier-config",
   "version": "0.1.0",
   "description": "",
-  "main": ".prettierrc.js",
+  "main": "lib/.prettierrc.js",
   "keywords": [
     "Prettier",
     "JavaScript",
