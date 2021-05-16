@@ -1,0 +1,31 @@
+{
+  "name": "@public-library/camel-case",
+  "version": "0.1.0",
+  "description": "The camelCase transformer lib for strings able to be used with TypeScript and JavaScript.",
+  "main": "dist/camelCase.cjs",
+  "scripts": {
+    "test": "jest --all",
+    "test::withWatch": "jest --all --watch",
+    "build": "microbundle",
+    "dev": "microbundle watch"
+  },
+  "keywords": [
+    "camelcase",
+    "lib",
+    "library",
+    "camelCase",
+    "strings",
+    "string",
+    "strconv"
+  ],
+  "author": "Public Library Community <https://github.com/lemooos/public-library>",
+  "license": "MIT",
+  "dependencies": {
+    "microbundle": "^0.13.0"
+  },
+  "type": "module",
+  "source": "lib/camelCase.ts",
+  "exports": "dist/camelCase.modern.js",
+  "module": "dist/camelCase.module.js",
+  "unpkg": "dist/camelCase.umd.js"
+}
