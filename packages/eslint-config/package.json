@@ -1,0 +1,24 @@
+{
+  "name": "@public-library/eslint-config",
+  "version": "0.1.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ESLint",
+    "linter",
+    "linting",
+    "lint",
+    "lib",
+    "library",
+    "public",
+    "open-source"
+  ],
+  "author": "Public Library Community <https://github.com/lemooos/public-library>",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": "^7.26.0"
+  }
+}
