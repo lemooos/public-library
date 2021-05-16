@@ -20,7 +20,7 @@
   ],
   "author": "Public Library Community <https://github.com/lemooos/public-library>",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "microbundle": "^0.13.0"
   },
   "type": "module",
