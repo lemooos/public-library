@@ -10,10 +10,10 @@
     "dev": "microbundle watch"
   },
   "keywords": [
-    "camelcase",
+    "titlecase",
     "lib",
     "library",
-    "camelCase",
+    "TitleCase",
     "strings",
     "string",
     "strconv"
