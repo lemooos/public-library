@@ -1,0 +1,11 @@
+{
+  "name": "@lemoos/public-library",
+  "version": "0.1.0",
+  "description": "The Public Library is a repo of utilities, helpers written in TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonardo Lemos <leo.lemos.ds@gmail.com>",
+  "license": "MIT"
+}
